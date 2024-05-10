@@ -10,9 +10,6 @@ import numpy as np
 import scipy.optimize as opt
 
 import sys
-
-sys.path.append(r'C:\Users\XYZW\Documents\Python Scripts\Bond_prices')
-
 import bond_price as bp
 
 import pandas as pd
